@@ -176,7 +176,7 @@ This dashboard helps organizations:
 
 ## Dashboard Preview
 
-![HR Dashboard Preview](dashboard.png)
+![HR Dashboard Preview](Dashboard.png)
 
 ---
 
@@ -194,5 +194,6 @@ Potential enhancements:
 ## Author
 
 **Ebin Joshy**
+
 Aspiring Data Analyst | Excel | SQL | Python | Tableau
 
